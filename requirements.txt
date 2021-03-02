@@ -58,3 +58,6 @@ wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_160096578139
 webencodings==0.5.1
 widgetsnbextension @ file:///Users/runner/miniforge3/conda-bld/widgetsnbextension_1605475534277/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
+pandas
+bqplot
+ipywidgets
