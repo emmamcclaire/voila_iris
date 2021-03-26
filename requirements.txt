@@ -1,5 +1,0 @@
-pandas
-bqplot
-voila
-ipywidgets
-sklearn
